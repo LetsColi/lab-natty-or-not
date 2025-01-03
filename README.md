@@ -1,51 +1,57 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto consiste na criação de um vídeo curto e envolvente para apresentar como as IAs Generativas podem transformar a vida cotidiana de crianças entre 7 e 10 anos. O vídeo terá linguagem acessível, energia vibrante e uma abordagem educativa.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+1. Criação de Roteiro e Narrativa
+
+    ChatGPT (OpenAI): Para criar um roteiro cativante, usando linguagem simples e divertida, adaptada para crianças.
+
+2. Geração de Voz e Avatar
+
+    ElevenLabs: Para sintetizar um avatar amigável e uma narração com entonação divertida e entusiasmada.
+
+3. Animações, Design Visual e Edição de vídeo
+
+    Canva: Para montar os slides animados e compor o visual com gráficos e personagens infantis. Além disso, para criar transições, efeitos e animações mais dinâmicas.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1. Planejamento
+
+    Definição do Tema: Como as IAs Generativas podem ajudar crianças no dia a dia (ex.: criar histórias, desenhar, aprender idiomas).
+    Estrutura do Vídeo:
+        Introdução (15s): Apresentação do tema com animações vibrantes.
+        Exemplos de Aplicação (30s): Mostre 2-3 exemplos práticos com visuais animados.
+        Encerramento (15s): Convite para explorar IAs de forma segura e criativa.
+2. Roteiro
+
+    Usei o ChatGPT para criar falas envolventes e ajustá-las para soar como um youtuber infantil.
+
+3. Produção Visual e Áudio
+
+   ElevenLabs: Criei um avatar e com uma voz amigável ao público infantil.
+
+4. Edição
+
+    Montei as animações no Canva, integrando imagens geradas e após editei o vídeo
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Vídeo Final: Um clipe de 1 minuto mostrando:
+
+    Introdução chamativa.
+    Exemplos realistas e criativos de IAs no cotidiano.
+    Estilo visual colorido e vibrante, perfeito para captar a atenção de crianças.
+
+Principais Aprendizados:
+
+    Como adaptar tecnologias de ponta para um público jovem.
+    A importância de linguagem acessível e visuais chamativos para engajar crianças.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
 
-### Exemplos e Insigths
+Criar algo "aesthetic" para crianças usando IA foi um desafio de equilíbrio. Tive que garantir que as tecnologias avançadas fossem apresentadas de forma simples, mantendo a diversão como prioridade.
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
