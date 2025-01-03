@@ -54,4 +54,4 @@ Principais Aprendizados:
 
 Criar algo "aesthetic" para crianças usando IA foi um desafio de equilíbrio. Tive que garantir que as tecnologias avançadas fossem apresentadas de forma simples, mantendo a diversão como prioridade.
 
-
+## Link do vídeo: https://youtu.be/A5bfJy1ETP0?si=uJrKaVs8XrZ5RdnA
