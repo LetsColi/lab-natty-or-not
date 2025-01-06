@@ -12,7 +12,7 @@ Este projeto consiste na criação de um vídeo curto e envolvente para apresent
 
 2. Geração de Voz e Avatar
 
-    ElevenLabs: Para sintetizar um avatar amigável e uma narração com entonação divertida e entusiasmada.
+    D-ID: Para sintetizar um avatar amigável e uma narração com entonação divertida e entusiasmada.
 
 3. Animações, Design Visual e Edição de vídeo
 
@@ -32,7 +32,7 @@ Este projeto consiste na criação de um vídeo curto e envolvente para apresent
 
 3. Produção Visual e Áudio
 
-   ElevenLabs: Criei um avatar e com uma voz amigável ao público infantil.
+   D-ID: Criei um avatar com uma voz amigável ao público infantil.
 
 4. Edição
 
